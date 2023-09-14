@@ -1,0 +1,53 @@
+body{
+    text-align: center;
+    background-color: rgb(235, 227, 255);
+    font-family: 'Poppins', sans-serif;
+}
+img{
+    width: 200px;
+    margin-bottom: 50px;
+}
+h1{
+    color: rgb(107, 41, 230);
+}
+main{
+    background-color: rgb(107, 41, 230);
+    width: 800px;
+    border-radius: 20px;
+    color: white;
+    text-align:left;
+    padding: 16px;
+    margin: 0 auto 0 auto;
+}
+.Custom-Button{
+    background-color: rgb(250, 208, 0);
+    border: 2px solid rgb(250, 208, 0);
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 10px;
+    display: inline-block;
+    margin-top: 15px;
+}
+.Custom-Button:hover{
+    background-color: rgb(254, 221, 59);
+    border: 2px solid rgb(254, 221, 59);
+}
+.Grey{
+    color: grey;
+}
+.Boxed-Highlight{
+    background-color: rgb(244, 224, 125);
+    color: black;
+    border-radius: 5px;
+    padding: 5px;
+    text-decoration: none;
+}
+.Yellow-Color{
+    color: yellow;
+}
+.Fat-Her{
+    font-weight: bolder;
+}
+.Fat-Her-2{
+    font-weight: bolder;
+}
